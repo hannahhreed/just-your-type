@@ -30,18 +30,3 @@ p {
   font-family: 'Dancing Script', cursive;
   color: silver;
 }
-
-@media only screen and (min-width: 38em) {
-
-  p {
-    display: hidden;
-  }
-
-}
-
-@media only screen and (min-width: 60em) {
-
-  p {
-    display: hidden;
-  }
-}
