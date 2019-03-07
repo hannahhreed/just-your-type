@@ -1,0 +1,23 @@
+Explain your chosen concept.
+
+  My concept is supposed to have a simple and easy look to it while still delivering all the necessary steps. It starts off as just a quote in a box but as you make it larger the quote expands and additional text appears on top of it.
+
+Why did you choose these typefaces?
+
+  I chose these typefaces because I thought they best represented this quote and they looked the part. The first typeface is Open Sans Condensed that has an easy and simple feel to it which suits the quote. The second typeface is Courgette, a cursive font that really described the second part of the quote.
+
+Why did you choose this type scale?
+
+  I chose this type scale because I wanted a noticeable hierarchy. I wanted the text to appear larger when the screen got wider and start off fairly smaller.
+
+Why did you choose these colors?
+
+  I chose these colors to carry on the simplicity of this website. I wanted pastel, light colors that are easy on the eye and don't take over the text, but compliment it. The second half of the quote is grey instead of black because I wanted it to be noticeable it is different, hence the reason it is different color and font.
+
+How did you effectively use grids & modular CSS?
+
+  I effectively used grids and modular CSS by adding grid onto the first div in order to establish it is a grid and added a unit onto the H1 and P. Modular CSS was used with the changing of the sizes when it goes from small to large.
+
+What challenges did you overcome?
+
+  The challenge that I overcame the most was adding the second part of the quote on top of the first part and hiding it when the quote appears small.
