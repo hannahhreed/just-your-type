@@ -16,10 +16,30 @@ h1 {
   border-style: solid;
   border-width: 4px;
   border-color: pink;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .max-width {
   max-width: 320px;
   display: block;
   margin: auto;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+}
+
+@media only screen and (min-width: 38em) {
+
+  p {
+    display: hidden;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  p {
+    display: hidden;
+  }
 }
