@@ -17,16 +17,18 @@ h1 {
   border-width: 4px;
   border-color: pink;
   font-family: 'Open Sans Condensed', sans-serif;
+  background-color: lightyellow;
 }
-
+/*
 .max-width {
   max-width: 320px;
   display: block;
   margin: auto;
-}
+} */
 
 p {
   font-family: 'Dancing Script', cursive;
+  color: silver;
 }
 
 @media only screen and (min-width: 38em) {
