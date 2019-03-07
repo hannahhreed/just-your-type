@@ -2,10 +2,6 @@ html {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
 h1 {
   font-weight: normal;
   border-style: solid;
